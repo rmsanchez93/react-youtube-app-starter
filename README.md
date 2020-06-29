@@ -36,6 +36,8 @@ i.e. add some static initial state and only add in fetch request after
 
 #### api key
 
+Use this [link](https://developers.google.com/youtube/v3/getting-started) to generate your own API_KEY.
+
 create a file in the `src` directory called `keys.js`.
 
 The code inside mine is:
